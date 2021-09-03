@@ -11,4 +11,5 @@ This readme just includes a full list of all of my **relevant coursework** suppl
 * [Understanding Capital Markets](https://www.linkedin.com/learning/understanding-capital-markets) - **LinkedIn Learning**
 * [Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training) - **LinkedIn Learning**
 * [(IN PROGRESS) Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/) - **Udemy**
+* [(IN PROGRESS) iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - **Udemy**
 * [Extensive Miscellaneous Learning](https://www.youtube.com/) - **YouTube**

@@ -1,5 +1,7 @@
 # Relevant-Coursework
-This readme just includes a full list of all of my **relevant coursework** supplement my knowledge. I consider *relevant courses* to be courses that are in the scope of programming and finance, which is my peak interest. These courses are just a small portion of my learning, but I am using this repository to keep track of my various e-learning certificates.
+This readme just includes a full list of all of my **relevant coursework** supplement my knowledge. 
+I consider *relevant courses* to be courses that are in the scope of programming and finance, which is my peak interest. 
+These courses are just a small portion of my learning, but I am using this repository to keep track of my various e-learning certificates.
 
 ## Full List of Courses:
 * [(IN PROGRESS) 100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) - **Udemy**

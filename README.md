@@ -9,6 +9,7 @@ These courses are just a small portion of my learning, but I am using this repos
 * [Blockchain for Business: The New Industrial Revolution](https://www.udemy.com/course/blockchain-for-business-the-new-industrial-revolution/) - **Udemy**
 * [(IN PROGRESS) Advance Your Skills in Python - LinkedIn Learning Path](https://www.linkedin.com/learning/paths/advance-your-skills-in-python-8969631) - **LinkedIn Learning**
 * [Algorithmic trading and Finance Models with Python, R, and Stata Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training) - **LinkedIn Learning**
+* [(IN PROGRESS) Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/) - **Udemy**
 * [AI in Fintech Essential Training](https://www.linkedin.com/learning/ai-in-fintech-essential-training) - **LinkedIn Learning**
 * [Understanding Capital Markets](https://www.linkedin.com/learning/understanding-capital-markets) - **LinkedIn Learning**
 * [Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training) - **LinkedIn Learning**

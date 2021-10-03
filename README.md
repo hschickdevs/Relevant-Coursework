@@ -15,4 +15,4 @@ These courses are just a small portion of my learning, but I am using this repos
 * [AI in Fintech Essential Training](https://www.linkedin.com/learning/ai-in-fintech-essential-training) - **LinkedIn Learning**
 * [Understanding Capital Markets](https://www.linkedin.com/learning/understanding-capital-markets) - **LinkedIn Learning**
 * [Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training) - **LinkedIn Learning**
-* [Extensive Miscellaneous Learning](https://www.youtube.com/playlist?list=PLtE75ku_YbR-jHRwNEPE6G2QxpDjbnz2P) - **YouTube**
+* [Extensive Miscellaneous Learning](https://www.youtube.com/playlist?list=PLN6bQjqZBIWZHVWr4CLdDvhVSftLBdkjY) - **YouTube**

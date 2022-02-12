@@ -2,6 +2,7 @@
 This readme just includes a full list of all of my **relevant supplimentary coursework** supplement my knowledge of programming and finance. 
 I consider *relevant courses* to be courses that are in the scope of programming and finance, which is my peak interest. 
 These courses are just a small portion of my learning, but I am using this repository to keep track of my various e-learning certificates.
+
 (Sorted in order of priority)
 
 ## Full List of Courses:

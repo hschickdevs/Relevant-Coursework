@@ -5,7 +5,7 @@ These courses are just a small portion of my learning, but I am using this repos
 
 (Sorted in order of priority)
 
-## Full List of Courses:
+## Full Course List:
 * [(IN PROGRESS) 100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) - **Udemy**
 * [(IN PROGRESS) Backtesting Crypto Trading Strategies with Python & C++ 2021](https://www.udemy.com/course/backtesting-crypto-trading-strategies-with-python-c/) - **Udemy**
 * [(IN PROGRESS) Interactive Brokers Python API - Advanced Concepts](https://www.udemy.com/course/interactive-brokers-python-api-advanced-concepts/) - **Udemy**

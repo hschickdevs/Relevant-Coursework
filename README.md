@@ -1,9 +1,7 @@
 # Relevant-Coursework
-This readme just includes a full list of all of my **relevant coursework** in progress & completed to suppliment my knowledge of programming and finance. 
+This readme just includes a full list of all of my **relevant coursework** in progress & completed to suppliment my knowledge of the intersection between computer science and finance. 
 I consider *relevant courses* to be courses that are in the scope of programming and finance (primarily investing & trading), which is my peak interest. 
 These courses are just a small portion of my learning, but I am using this repository to keep track of my various e-learning certificates.
-
-(Sorted in order of priority)
 
 ## Full Course List:
 * [(IN PROGRESS) 100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) - **Udemy**

@@ -22,4 +22,6 @@ These courses are just a small portion of my learning, but I am using this repos
 * [AI in Fintech Essential Training](https://www.linkedin.com/learning/ai-in-fintech-essential-training) - **LinkedIn Learning**
 * [Understanding Capital Markets](https://www.linkedin.com/learning/understanding-capital-markets) - **LinkedIn Learning**
 * [Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training) - **LinkedIn Learning**
+* [Python Design Patterns](https://www.linkedin.com/learning/python-design-patterns) - **LinkedIn**
+* [Secure Coding in Python](https://www.linkedin.com/learning/secure-coding-in-python/developing-securely?autoplay=true&u=50849081) - **LinkedIn**
 * [Extensive Miscellaneous Learning](https://www.youtube.com/playlist?list=PLN6bQjqZBIWZHVWr4CLdDvhVSftLBdkjY) - **YouTube**

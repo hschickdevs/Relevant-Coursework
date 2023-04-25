@@ -13,7 +13,7 @@ These courses are a small portion of my learning, but I am using this repository
 * [(IN PROGRESS) Python for Financial Analysis and Algorithmic Trading](https://www.udemy.com/course/python-for-finance-and-trading-algorithms/) - **Udemy**
 * [(IN PROGRESS) Python for Time Series Data Analysis](https://www.udemy.com/course/python-for-time-series-data-analysis/) - **Udemy**
 * [(IN PROGRESS) iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) - **Udemy**
-* [(IN PROGRESS) Algorithmic trading on Alpaca's Platform - Deep Dive](https://www.udemy.com/course/algorithmic-trading-on-alpacas-platform-deep-dive/) - **Udemy**
+* [(IN PROGRESS) Designing Highly Scalable and Highly Available SQL Databases](https://www.linkedin.com/learning/designing-highly-scalable-and-highly-available-sql-databases) - **LinkedIn Learning**
 * [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) - **Udemy**
 * [Blockchain for Business: The New Industrial Revolution](https://www.udemy.com/course/blockchain-for-business-the-new-industrial-revolution/) - **Udemy**
 * [Algorithmic trading and Finance Models with Python, R, and Stata Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training) - **LinkedIn Learning**
